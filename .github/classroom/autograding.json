@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello World",
+      "setup": "javac Main.java",
+      "run": "java Main",
+      "input": "",
+      "output": "[Hh]ello",
+      "comparison": "regex",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
